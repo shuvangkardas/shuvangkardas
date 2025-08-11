@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shuvangkardas
+- 👋 Hi, I’m Shuvangkar Das
 - 👀 I’m interested in Inverter-Based Resource, Power Electronics and Power System.
 - 🌱 I’m currently working as a Research Scientist in Power System Domain
 - 📫 Here is my website [shuvangkardas.com](https://shuvangkardas.com)
