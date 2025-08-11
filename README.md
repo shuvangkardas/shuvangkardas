@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shuvangkardas
-- 👀 I’m interested in embedded system, power electronics, power system.
-- 🌱 I’m currently doing my PhD at Clarkson University
+- 👀 I’m interested in Inverter-Based Resource, Power Electronics and Power System.
+- 🌱 I’m currently working as a Research Scientist in Power System Domain
 - 📫 Here is my website [shuvangkardas.com](https://shuvangkardas.com)
 
 <!---
